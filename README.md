@@ -1,2 +1,1 @@
-# Odev1
-Temel Html Css 
+# Patika.dev Ödevleri
